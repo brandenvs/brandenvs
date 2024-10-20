@@ -1,12 +1,14 @@
 ## Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 399.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 442 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,7 +79,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/brandenvs/brandenvs/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2024 18:45:52 UTC
+ Last Updated on 20/10/2024 18:44:39 UTC
 <!--END_SECTION:waka-->
 <!--
 **brandenvs/brandenvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

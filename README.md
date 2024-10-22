@@ -1,4 +1,28 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://github.com/user-attachments/assets/c79c3d9c-c1c6-4de8-b134-d96659ba3b04" width="100"/>
+
+ <div id="badges">
+   <a href="br-code.bcodelabs.com">
+     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+   </a>
+  
+   <a href="search.bcodelabs.com">
+     <img src="https://img.shields.io/badge/searXNG-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+   </a>
+ </div>
+ 
+ <h1>
+  Welcome to my GitHub Profile 
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ </h1>
+ 
+ <div align="center">
+   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ </div>
+</div>
+
+## ⌚ My Stats
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2012%20mins-blue)
 

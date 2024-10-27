@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/c79c3d9c-c1c6-4de8-b134-d96659ba3b04" width="100"/>
 
  <div id="badges">
-   <a href="[br-code.bcodelabs.com](https://search.bcodelabs.com/)">
+   <a href="https://search.bcodelabs.com/">
      <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
    </a>
   

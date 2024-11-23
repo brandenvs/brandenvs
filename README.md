@@ -2,11 +2,11 @@
   <img src="https://github.com/user-attachments/assets/c79c3d9c-c1c6-4de8-b134-d96659ba3b04" width="100"/>
 
  <div id="badges">
-   <a href="/br-code">
+   <a href="https://spt.bcodelabs.com/portal/">
      <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge">
    </a>
   
-   <a href="/searxng-docker">
+   <a href="https://search.bcodelabs.com/search?q=searXNG">
      <img src="https://img.shields.io/badge/searXNG-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
    </a>
  </div>

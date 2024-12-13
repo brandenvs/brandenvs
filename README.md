@@ -21,13 +21,24 @@
  </div>
 </div>
 
-## ⌚ My Stats
+### Metrics
+
+<a href="https://github.com/brandenvs">
+  <img align="center" src="https://github-readme-stats-brandenvs-projects.vercel.app/api/wakatime/?username=brandenvs&layout=compact&custom_title=Language%20Metrics&theme=tokyonight" />
+</a>
+<a href="https://github.com/brandenvs">
+  <img align="center" src="https://github-readme-stats-brandenvs-projects.vercel.app/api/?username=brandenvs&rank_icon=github&theme=tokyonight&custom_title=GitHub%20Metrics&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</a>
+
+<!-- ![Language Metrics](https://github-readme-stats-brandenvs-projects.vercel.app/api/wakatime/?username=brandenvs&layout=compact&custom_title=Language%20Metrics&theme=tokyonight)
 
 
-![Language Metrics](https://github-readme-stats-brandenvs-projects.vercel.app/api/wakatime/?username=brandenvs&layout=compact&custom_title=Language%20Metrics&theme=tokyonight)
+![GH Metrics](https://github-readme-stats-brandenvs-projects.vercel.app/api/?username=brandenvs&rank_icon=github&theme=tokyonight&custom_title=GitHub%20Metrics) -->
 
 
-![GH Metrics](https://github-readme-stats-brandenvs-projects.vercel.app/api/?username=brandenvs&rank_icon=github&theme=tokyonight&custom_title=GitHub%20Metrics)
+
+
+
 
 <!--START_SECTION:waka
 ![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%204%20mins-blue)

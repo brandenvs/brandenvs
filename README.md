@@ -23,7 +23,10 @@
 
 ## ⌚ My Stats
 
-<!--START_SECTION:waka-->
+
+![WakaTime](https://github-readme-stats-brandenvs-projects.vercel.app/api/wakatime/?username=brandenvs&layout=compact)
+
+<!--START_SECTION:waka
 ![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)

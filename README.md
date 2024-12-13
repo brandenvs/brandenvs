@@ -24,7 +24,10 @@
 ## ⌚ My Stats
 
 
-![WakaTime](https://github-readme-stats-brandenvs-projects.vercel.app/api/wakatime/?username=brandenvs&layout=compact)
+![Language Metrics](https://github-readme-stats-brandenvs-projects.vercel.app/api/wakatime/?username=brandenvs&layout=compact&custom_title=Language%20Metrics&theme=tokyonight)
+
+
+![GH Metrics](https://github-readme-stats-brandenvs-projects.vercel.app/api/?username=brandenvs&rank_icon=github&theme=tokyonight&custom_title=GitHub%20Metrics)
 
 <!--START_SECTION:waka
 ![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%204%20mins-blue)

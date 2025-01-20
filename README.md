@@ -27,7 +27,4 @@
   <a href="https://github.com/brandenvs">
     <img src="https://github-readme-stats-brandenvs-projects.vercel.app/api/wakatime/?username=brandenvs&layout=compact&custom_title=Language%20Metrics&theme=tokyonight" alt="Wakatime Metrics" />
   </a>
-  <a href="https://github.com/brandenvs">
-    <img src="https://github-readme-stats-brandenvs-projects.vercel.app/api/?username=brandenvs&rank_icon=github&theme=tokyonight&custom_title=GitHub%20Metrics&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Metrics" />
-  </a>
 </div>

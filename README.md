@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/c79c3d9c-c1c6-4de8-b134-d96659ba3b04" width="100"/>
 
  <div id="badges">
-   <a href="https://stadprin.com/portal/" target="_blank">
+   <a href="https://stadprin.com/" target="_blank">
      <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website Badge">
    </a>
   

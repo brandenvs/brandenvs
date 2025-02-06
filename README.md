@@ -21,7 +21,7 @@
  </div>
 </div>
 
-### Metrics
+### Metrics (last 90 days)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/brandenvs">

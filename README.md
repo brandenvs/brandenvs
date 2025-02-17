@@ -12,6 +12,8 @@
      <img src="https://img.shields.io/badge/searXNG-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
    </a>
  </div>
+
+### STATS
  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/brandenvs">

@@ -14,9 +14,10 @@
  </div>
 
 ### STATS
- 
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/brandenvs">
     <img src="https://github-readme-stats-brandenvs-projects.vercel.app/api/wakatime/?username=brandenvs&layout=compact&custom_title=Language%20Metrics&theme=tokyonight" alt="Wakatime Metrics" />
   </a>
+ <img src="https://wakatime.com/share/@brandenvs/1dbdd216-e24d-4106-a5e1-bebd7e753362.svg" alt="Wakatime Metrics" />
 </div>

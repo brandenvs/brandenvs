@@ -13,7 +13,7 @@
    </a>
  </div>
 
-### STATS
+### STATS (Last 7 days)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/brandenvs">
@@ -21,3 +21,5 @@
   </a>
  <img src="https://wakatime.com/share/@brandenvs/1dbdd216-e24d-4106-a5e1-bebd7e753362.svg" alt="Wakatime Metrics" />
 </div>
+
+> also see, https://wakatime.com/@brandenvs
